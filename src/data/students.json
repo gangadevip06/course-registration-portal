@@ -1,0 +1,18 @@
+[
+  {
+    "email": "student@nec.edu.in",
+    "password": "student123",
+    "name": "Ganga Devi P",
+    "registerNumber": "NEC21CS045",
+    "department": "Computer Science and Engineering",
+    "year": "3rd Year"
+  },
+  {
+    "email": "demo@nec.edu.in",
+    "password": "demo1234",
+    "name": "Demo Student",
+    "registerNumber": "NEC21CS099",
+    "department": "Information Technology",
+    "year": "2nd Year"
+  }
+]
